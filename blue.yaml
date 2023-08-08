@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: blue-container
-        image: koutuk16/blue
+        image: nginx
         ports:
         - containerPort: 80
