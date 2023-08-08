@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: green-containers
-        image: koutuk16/green
+        image: nginx
         ports:
         - containerPort: 80
